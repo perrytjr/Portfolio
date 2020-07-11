@@ -1,4 +1,13 @@
-.aboutme { padding: 25px;}
+#aboutme { padding: 25px;}
+
+h1 {color: white;
+background-color: #50ad9e;
+ }
+
+ .nav-link {float: left;
+display: flex;
+align-items: flex-end;
+}
 
 
-ul {flex-wrap: nowrap;}
+ 
