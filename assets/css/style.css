@@ -1,13 +1,24 @@
-#aboutme { padding: 25px;}
+li:not(:last-child) {
+        border-right: 1px solid rgb(207, 206, 206);
+    }
+html, body  {width: 100%;
+height: 94%;}
+
+main { padding-top: 25px;
+        background-color: white;
+        min-height: 100%;
+        display:grid;
+        grid-template-rows: auto 1fr auto;
+        grid-template-columns: 100%;
+        }
+header {background-color: white; }
 
 h1 {color: white;
-background-color: #50ad9e;
+background-color: #4aaaa5;
  }
+h2 {padding-left: 20px;}
 
- .nav-link {float: left;
-display: flex;
-align-items: flex-end;
-}
+.form-group { padding-left: 20px;}
 
-
- 
+footer {flex-shrink: auto;
+border-top: 6px #4aaaa5 solid;}
