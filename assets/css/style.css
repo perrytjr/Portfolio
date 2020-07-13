@@ -11,14 +11,27 @@ main { padding-top: 25px;
         grid-template-rows: auto 1fr auto;
         grid-template-columns: 100%;
         }
-header {background-color: white; }
+header {background-color: white;
+border-bottom: 1px solid lightgrey;
+margin-bottom: 24px;
+width:100%;
+position: fixed;
+color: #4aaaa5; }
 
 h1 {color: white;
 background-color: #4aaaa5;
+}
+h3 { color: #4aaaa5;}
  }
 h2 {padding-left: 20px;}
 
+.btn {margin-top: 20px;}
+
 .form-group { padding-left: 20px;}
+
+      .btn-linkedin:hover, .fa ::-webkit-file-upload-button:focus {
+     background: #015682;
+     color: #ffffff}
 
 footer {flex-shrink: auto;
 border-top: 6px #4aaaa5 solid;}
