@@ -2,7 +2,7 @@ li:not(:last-child) {
         border-right: 1px solid rgb(207, 206, 206);
     }
 html, body  {width: 100%;
-height: 94%;}
+height: 100%;}
 
 main { padding-top: 25px;
         background-color: white;
@@ -10,28 +10,42 @@ main { padding-top: 25px;
         display:grid;
         grid-template-rows: auto 1fr auto;
         grid-template-columns: 100%;
-        }
+        margin-bottom: 30px;
+}
+article {padding-top: 10px; background-color: white;
+}
+section {background-color: white;
+border-style: solid;
+border-color: darkgray}
+
+aside {padding-bottom: 5px;}
+
 header {background-color: white;
-border-bottom: 1px solid lightgrey;
-margin-bottom: 24px;
 width:100%;
 position: fixed;
-color: #4aaaa5; }
+color: #4aaaa5; 
+}
 
 h1 {color: white;
+        border-bottom: 1px solid lightgrey;
 background-color: #4aaaa5;
 }
-h3 { color: #4aaaa5;}
- }
-h2 {padding-left: 20px;}
 
-.btn {margin-top: 20px;}
+h3 { color: #4aaaa5; 
+}
+ 
 
-.form-group { padding-left: 20px;}
+h2 {color: #4aaaa5;
+border-bottom: lightgray;}
+        
+.btn {padding-top: 20px;}
 
-      .btn-linkedin:hover, .fa ::-webkit-file-upload-button:focus {
-     background: #015682;
-     color: #ffffff}
-
-footer {flex-shrink: auto;
-border-top: 6px #4aaaa5 solid;}
+footer {text-align: center;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        height: 30px;
+        clear: both;
+        border-top: 5px #4AAAA5 solid;
+    }
+    
