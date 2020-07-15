@@ -21,5 +21,3 @@ Created a Bootstrap CSS responsive framework to display my personal portfolio.
 
 # Conclusion
 
-
-
