@@ -18,6 +18,7 @@ header {background-color: white;
 li:not(:last-child) {
         border-right: 1px solid rgb(207, 206, 206);
 }
+/*main section of pages*/
 
 main { padding-top: 25px;
         background-color: white;
@@ -96,3 +97,4 @@ footer {text-align: center;
             margin: 0;
             padding: 0 1%;
         }
+    }
