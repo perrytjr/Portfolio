@@ -2,7 +2,7 @@
 
 Overview:
 
-<img src="">
+<img src="https://github.com/perrytjr/Portfolio/blob/master/assets/images/Screen%20Shot%202020-07-14%20at%205.02.02%20PM.png>
 
 As a marketing agency, Horiseon, requested a codbase that follows accessibility standards
 and is optimized for search engines. Their website code was stored in a develop folder containing an index.html and a 
