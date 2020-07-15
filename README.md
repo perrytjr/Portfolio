@@ -4,7 +4,7 @@ Overview:
 
 ![](https://github.com/perrytjr/Portfolio/blob/master/assets/images/Screen%20Shot%202020-07-14%20at%205.02.02%20PM.png)
 
-Created a Bootstrap CSS responsive framework to display my personal portfolio. 
+Created a Bootstrap CSS responsive framework to display my personal portfolio.
 
 # Overview 
 
