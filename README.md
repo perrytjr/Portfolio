@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Portfolio
+
+>>>>>>> f1324a6... updated readme
 # Responsive Portfolio
 
 Overview:
@@ -21,3 +26,7 @@ Created a Bootstrap CSS responsive framework to display my personal portfolio.
 
 # Conclusion
 
+<<<<<<< HEAD
+=======
+Please use the following link for my porfolio site: https://perrytjr.github.io/Portfolio/ 
+>>>>>>> f1324a6... updated readme
