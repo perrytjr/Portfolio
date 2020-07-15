@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-![alt text]( "Logo Title Text 1")
+![]( assets/images/Screen Shot 2020-07-14 at 5.02.02 PM.png Logo Title Text 1")
 
 Overview:
 
