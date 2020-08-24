@@ -18,6 +18,10 @@ header {background-color: white;
 li:not(:last-child) {
         border-right: 1px solid rgb(207, 206, 206);
 }
+
+.namelink {
+    color: white;
+}
 /*main section of pages*/
 
 main { padding-top: 25px;
@@ -43,7 +47,10 @@ border-color: darkgray;
 
 aside {padding-bottom: 5px;}
 
+.btn {
 
+margin-top: 10px;
+}
 
 
 h1 {color: white;
@@ -78,6 +85,14 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
         width: 100%;
         padding: 5px;
         margin: 5px;
+    }
+
+    .img-fluid{
+        width: 5rem;
+        height: 5rem;
+        padding: 3px;
+        border-radius: 10%;
+        
     }
 /*footer and media quieries*/
 
