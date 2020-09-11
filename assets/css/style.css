@@ -19,8 +19,27 @@ header {background-color: white;
 li:not(:last-child) {
         border-right: 1px solid rgb(207, 206, 206);
 }
-
-
+nav {
+    flex-wrap: wrap ;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    align-items: center;
+}
+.navbar {
+    flex-wrap: wrap ;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    align-items: center;
+}
+.navbar-brand {
+    flex-wrap: wrap ;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    align-items: center;
+}
 
 .namelink {
     color: white;
@@ -31,6 +50,7 @@ main { padding-top: 25px;
         background-color: white;
         min-height: 100%;
         display:flex;
+        flex-wrap: wrap;
         grid-template-rows: auto 1fr auto;
         grid-template-columns: 100%;
         margin-bottom: 30px;
@@ -47,7 +67,8 @@ article {padding-top: 10px; background-color: white;
 border-style: solid;
 border-color: darkgray;
 margin-bottom: 5px;
-
+display: flex;
+flex-wrap: wrap;
 
 }
 
