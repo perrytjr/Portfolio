@@ -44,6 +44,12 @@ nav {
 .namelink {
     color: white;
 }
+ h3 {
+    font-size: 2rem;
+    color: #4aaaa5;
+    
+    top:-4rem;
+  }
 /*main section of pages*/
 
 main { padding-top: 25px;
